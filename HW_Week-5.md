@@ -3,6 +3,9 @@ HW Week 5
 Nolan Wark
 10/12/2022
 
+github repo: [my github repo for homework week 5 - Nolan
+Wark](https://github.com/nwark/HW_Week5)
+
 # Introduction
 
 IF you want to know what time of day you should fly to avoid delays as
